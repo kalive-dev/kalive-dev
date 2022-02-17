@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalive-dev
 - 👀 I’m interested in developing software
-- 🌱 I’m currently learning .NET, Python
+- 🌱 I’m currently learning .NET, Python, PHP
 
 <!---
 kalive-dev/kalive-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
