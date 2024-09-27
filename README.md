@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @kalive-dev
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning .NET, Python, PHP
+tech stack:
+- React
+- Node.js
+- .NET (ASP.NET API, MAUI)
+- some knowledges in LAMP stack 
 
 <!---
 kalive-dev/kalive-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
