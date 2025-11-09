@@ -1,5 +1,6 @@
 tech stack:
 - React
+- Python (FastAPI, Aiogram)
 - Node.js
 - .NET (ASP.NET API, MAUI)
 - some knowledges in LAMP stack 
